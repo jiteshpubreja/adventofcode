@@ -1,7 +1,7 @@
 ## All the Advent of Code Challenges solved till date.
 For more information visit [Advent of Code](https://adventofcode.com/)
 
-* [2015](2015)
+* [2015](2015) - (10 ⭐️)
   * [Day 1 Part 1](2015/day-1.1.py)
   * [Day 1 Part 2](2015/day-1.2.py)
   * [Day 2 Part 1](2015/day-2.1.py)
@@ -12,13 +12,15 @@ For more information visit [Advent of Code](https://adventofcode.com/)
   * [Day 5 Part 2](2015/day-5.2.py)
   * [Day 6 Part 1](2015/day-6.1.py)
   * [Day 6 Part 2](2015/day-6.2.py)
-* [2019](2019)
+* [2019](2019) - (4 ⭐️)
   * [Day 1 Part 1](2019/day-1.1.py)
   * [Day 1 Part 2](2019/day-1.2.py)
   * [Day 2 Part 1](2019/day-2.1.py)
   * [Day 2 Part 2](2019/day-2.2.py)
-* [2020](2020)
+* [2020](2020) - (4 ⭐️)
   * [Day 1 Part 1](2020/day-1.1.py)
   * [Day 1 Part 2](2020/day-1.2.py)
   * [Day 2 Part 1](2020/day-2.1.py)
   * [Day 2 Part 2](2020/day-2.2.py)
+
+18 ⭐️
