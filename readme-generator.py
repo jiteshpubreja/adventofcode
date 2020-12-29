@@ -10,11 +10,12 @@ years = [x for x in os.listdir(".") if os.path.isdir(x) and not x.startswith("."
 totalStars = 0
 
 for y in years:
-    md += f"* [{y}]({y}) - ({len(os.listdir(y))} ⭐️)\n"
+    md += f"* [{y}]({y}) - ({len(os.listdir(y))} ⭐️) - [🔗](https://adventofcode.com/{y}/)\n"
     totalStars += len(os.listdir(y))
     for d in sorted(os.listdir(y)):
+        link = f"https://adventofcode.com/{y}/" + d.split(".")[0].replace("-","/")
         name = d.split(".")[0].title().replace("-"," ") + " Part " + d.split(".")[1]
-        md += f"  * [{name}]({y}/{d})\n"
+        md += f"  * [{name}]({y}/{d}) - [🔗]({link})\n"
 
 md += f"\n{totalStars} ⭐️"
 
