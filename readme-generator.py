@@ -15,6 +15,7 @@ for y in years:
     for d in sorted(os.listdir(y)):
         link = f"https://adventofcode.com/{y}/" + d.split(".")[0].replace("-","/")
         name = d.split(".")[0].title().replace("-"," ") + " Part " + d.split(".")[1]
+        link += "#part2" if d.split(".")[1] == "2" else ""
         md += f"  * [{name}]({y}/{d}) - [🔗]({link})\n"
 
 md += f"\n{totalStars} ⭐️"
