@@ -9,7 +9,7 @@ md += "For more information visit [Advent of Code](https://adventofcode.com/)\n\
 years = [x for x in os.listdir(".") if os.path.isdir(x) and not x.startswith(".")]
 totalStars = 0
 
-for y in years:
+for y in sorted(years):
     md += f"* [{y}]({y}) - ({len(os.listdir(y))} ⭐️) - [🔗](https://adventofcode.com/{y}/)\n"
     totalStars += len(os.listdir(y))
     for d in sorted(os.listdir(y)):
