@@ -41,7 +41,7 @@ For more information visit [Advent of Code](https://adventofcode.com/)
   * [Day 6 Part 2](2020/day-6.2.py) - [🔗](https://adventofcode.com/2020/day/6#part2)
   * [Day 7 Part 1](2020/day-7.1.py) - [🔗](https://adventofcode.com/2020/day/7)
   * [Day 7 Part 2](2020/day-7.2.py) - [🔗](https://adventofcode.com/2020/day/7#part2)
-* [2021](2021) - (14 ⭐️) - [🔗](https://adventofcode.com/2021/)
+* [2021](2021) - (16 ⭐️) - [🔗](https://adventofcode.com/2021/)
   * [Day 1 Part 1](2021/day-1.1.py) - [🔗](https://adventofcode.com/2021/day/1)
   * [Day 1 Part 2](2021/day-1.2.py) - [🔗](https://adventofcode.com/2021/day/1#part2)
   * [Day 2 Part 1](2021/day-2.1.py) - [🔗](https://adventofcode.com/2021/day/2)
@@ -56,5 +56,7 @@ For more information visit [Advent of Code](https://adventofcode.com/)
   * [Day 6 Part 2](2021/day-6.2.py) - [🔗](https://adventofcode.com/2021/day/6#part2)
   * [Day 7 Part 1](2021/day-7.1.py) - [🔗](https://adventofcode.com/2021/day/7)
   * [Day 7 Part 2](2021/day-7.2.py) - [🔗](https://adventofcode.com/2021/day/7#part2)
+  * [Day 8 Part 1](2021/day-8.1.py) - [🔗](https://adventofcode.com/2021/day/8)
+  * [Day 8 Part 2](2021/day-8.2.py) - [🔗](https://adventofcode.com/2021/day/8#part2)
 
-48 ⭐️
+50 ⭐️
