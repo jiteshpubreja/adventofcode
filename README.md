@@ -60,12 +60,14 @@ For more information visit [Advent of Code](https://adventofcode.com/)
   * [Day 8 Part 2](2021/day-8.2.py) - [🔗](https://adventofcode.com/2021/day/8#part2)
   * [Day 9 Part 1](2021/day-9.1.py) - [🔗](https://adventofcode.com/2021/day/9)
   * [Day 9 Part 2](2021/day-9.2.py) - [🔗](https://adventofcode.com/2021/day/9#part2)
-* [2022](2022) - (6 ⭐️) - [🔗](https://adventofcode.com/2022/)
+* [2022](2022) - (8 ⭐️) - [🔗](https://adventofcode.com/2022/)
   * [Day 1 Part 1](2022/day-1.1.py) - [🔗](https://adventofcode.com/2022/day/1)
   * [Day 1 Part 2](2022/day-1.2.py) - [🔗](https://adventofcode.com/2022/day/1#part2)
   * [Day 2 Part 1](2022/day-2.1.py) - [🔗](https://adventofcode.com/2022/day/2)
   * [Day 2 Part 2](2022/day-2.2.py) - [🔗](https://adventofcode.com/2022/day/2#part2)
   * [Day 3 Part 1](2022/day-3.1.py) - [🔗](https://adventofcode.com/2022/day/3)
   * [Day 3 Part 2](2022/day-3.2.py) - [🔗](https://adventofcode.com/2022/day/3#part2)
+  * [Day 4 Part 1](2022/day-4.1.py) - [🔗](https://adventofcode.com/2022/day/4)
+  * [Day 4 Part 2](2022/day-4.2.py) - [🔗](https://adventofcode.com/2022/day/4#part2)
 
-58 ⭐️
+60 ⭐️
