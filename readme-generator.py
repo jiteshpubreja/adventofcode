@@ -12,7 +12,7 @@ totalStars = 0
 for y in sorted(years):
     md += f"* [{y}]({y}) - ({len(os.listdir(y))} ⭐️) - [🔗](https://adventofcode.com/{y}/)\n"
     totalStars += len(os.listdir(y))
-    for d in sorted(os.listdir(y)):
+    for d in sorted(os.listdir(y),key=lambda x : float(x.split("-")[1].split(".py")[0])):
         link = f"https://adventofcode.com/{y}/" + d.split(".")[0].replace("-","/")
         name = d.split(".")[0].title().replace("-"," ") + " Part " + d.split(".")[1]
         link += "#part2" if d.split(".")[1] == "2" else ""
