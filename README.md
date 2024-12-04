@@ -104,10 +104,12 @@ For more information visit [Advent of Code](https://adventofcode.com/)
   * [Day 8 Part 2](2023/day-8.2.py) - [🔗](https://adventofcode.com/2023/day/8#part2)
   * [Day 9 Part 1](2023/day-9.1.py) - [🔗](https://adventofcode.com/2023/day/9)
   * [Day 9 Part 2](2023/day-9.2.py) - [🔗](https://adventofcode.com/2023/day/9#part2)
-* [2024](2024) - (4 ⭐️) - [🔗](https://adventofcode.com/2024/)
+* [2024](2024) - (6 ⭐️) - [🔗](https://adventofcode.com/2024/)
   * [Day 1 Part 1](2024/day-1.1.py) - [🔗](https://adventofcode.com/2024/day/1)
   * [Day 1 Part 2](2024/day-1.2.py) - [🔗](https://adventofcode.com/2024/day/1#part2)
   * [Day 2 Part 1](2024/day-2.1.py) - [🔗](https://adventofcode.com/2024/day/2)
   * [Day 2 Part 2](2024/day-2.2.py) - [🔗](https://adventofcode.com/2024/day/2#part2)
+  * [Day 3 Part 1](2024/day-3.1.py) - [🔗](https://adventofcode.com/2024/day/3)
+  * [Day 3 Part 2](2024/day-3.2.py) - [🔗](https://adventofcode.com/2024/day/3#part2)
 
-98 ⭐️
+100 ⭐️
